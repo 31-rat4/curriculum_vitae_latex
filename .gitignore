@@ -3,3 +3,6 @@
 *.gz
 *.out
 *.ttf
+*aux
+fonts
+

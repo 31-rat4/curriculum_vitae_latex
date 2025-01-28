@@ -51,7 +51,8 @@
 % Needed to handle list environment
 \RequirePackage{enumitem}
 % Needed to handle text alignment
-\RequirePackage{ragged2e}
+\RequirePackage{
+	ragged2e}
 % Needed to configure page layout
 \RequirePackage{geometry}
 % Needed to make header & footer effeciently
